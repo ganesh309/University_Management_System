@@ -1,6 +1,6 @@
 🎓 "University Management System (Admin, College & Student Portal)".
 
-This is a web-based University Management System built using Laravel, featuring a multi-step registration form, admin dashboard, student search,and fees management functionalities. The system is designed for educational institutions to manage student registrations efficiently.
+An integrated university management platform built with Laravel to simplify student enrollment, financial tracking, and administrative tasks. It provides multi-step registration, hierarchical address mapping, advanced search, fee scheduling, and secure authentication with optional two-factor verification for enhanced security.
 
 📌 Features
 
