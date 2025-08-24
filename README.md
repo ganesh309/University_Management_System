@@ -1,6 +1,6 @@
-🎓 Student Registration System.
+🎓 "University Management System (Admin, College & Student Portal)".
 
-This is a web-based Student Registration System built using Laravel, featuring a multi-step registration form, admin dashboard, student search,and fees management functionalities. The system is designed for educational institutions to manage student registrations efficiently.
+This is a web-based University Management System built using Laravel, featuring a multi-step registration form, admin dashboard, student search,and fees management functionalities. The system is designed for educational institutions to manage student registrations efficiently.
 
 📌 Features
 
