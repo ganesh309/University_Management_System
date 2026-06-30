@@ -44,8 +44,8 @@ An integrated university management platform built with Laravel to simplify stud
 
 🔑 Default Admin Login:
 
-    Email: admin@example.com
-    Password: admin123
+    Email: admin
+    Password: password123
 
 📂 Project Structure
    
