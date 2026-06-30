@@ -31,7 +31,8 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 });
 function urlFilter(page = 1) {
-    const baseUrl = "http://127.0.0.1:8000/fees-details/details";
+    // const baseUrl = "http://127.0.0.1:8000/fees-details/details";
+    const baseUrl = window.location.origin + window.location.pathname;
     let queryString = "";
 
     const academicId = document.getElementById("academic")?.value;

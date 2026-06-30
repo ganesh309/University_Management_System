@@ -32,7 +32,8 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 function urlFilter(page = 1) {
-    const baseUrl = "http://127.0.0.1:8000/students";
+    // const baseUrl = "http://127.0.0.1:8000/students";
+    const baseUrl = window.location.origin + window.location.pathname;
     let queryString = "";
 
     const countryId = document.getElementById("country")?.value;
