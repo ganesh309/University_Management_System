@@ -23,11 +23,11 @@
             <form action="{{ route('admin.login') }}" method="POST">
                 @csrf
                 <div class="mb-3">
-                    <label for="username" class="form-label text-white">Username</label>
+                    <label for="username" class="form-label text-white">Username(admin)</label>
                     <input type="text" name="username" class="form-control" id="username" required placeholder="Enter username">
                 </div>
                 <div class="mb-3">
-                    <label for="password" class="form-label text-white">Password</label>
+                    <label for="password" class="form-label text-white">Password(password123)</label>
                     <div class="input-group">
                         <input type="password" name="password" class="form-control" id="password" required placeholder="Enter password">
                         <button class="toggle-password" type="button">
